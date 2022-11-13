@@ -1,0 +1,5 @@
+[gd_resource type="NativeScript" format=2]
+
+[resource]
+resource_name = "Node2d"
+class_name = "Node2d"
